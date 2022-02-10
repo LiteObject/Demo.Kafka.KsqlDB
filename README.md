@@ -1,1 +1,1 @@
-# [ksqlDB Quickstart] (https://ksqldb.io/quickstart.html)
+# [ksqlDB Quickstart](https://ksqldb.io/quickstart.html)
